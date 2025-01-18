@@ -1,1 +1,2 @@
-First Rust CLI application from taking LGR course. 
+# jira-cli-app
+My project from Let's Get Rusty course
